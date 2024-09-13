@@ -76,8 +76,6 @@ python detection_excel.py -o recognized_faces.csv
 - Error: Can't open file 'haarcascade_frontalface_default.xml'
   - Verify that the Haar Cascade XML file is in the correct directory (haarcascade/).
 
-<br>
-
 # Face-Detection-and-Recognition
 
 #### @Copyright 2020 | Veenbotronik
