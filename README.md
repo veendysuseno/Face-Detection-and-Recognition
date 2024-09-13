@@ -37,6 +37,12 @@ cd face-detection-recognition
 pip install numpy opencv-python pillow
 ```
 
+2. or install requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
+
 3. Download Haar Cascade XML File:
    Download haarcascade_frontalface_default.xml from OpenCV GitHub and place it in the haarcascade/ directory.
 
